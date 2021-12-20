@@ -1,0 +1,117 @@
+*{
+  margin: 0;
+  font-family: nunito;
+}
+
+
+h1{
+	text-align: center;
+	background-color: darkcyan;
+	padding: 20px 10px;
+	height: 50px;
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 15%;
+  height: 100%;
+  background-color:cadetblue;
+  position: fixed;
+  overflow: auto;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  font-family: nunito;
+  font-size: 16px;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+
+.active {
+  background-color:black;
+  color: white;
+
+}
+
+.active1{
+  background-color:navy;
+  color: white;
+
+}
+
+.a{
+  float: right;
+  font-size: 50px;
+  font-family: nunito;
+  padding-right: 150px;
+  padding-top: 100px;
+}
+
+.b{
+
+  float: right;
+  padding-right:150px;
+  font-family: nunito;
+}
+
+.c{
+  float: right;
+  text-align: center;
+  padding-right:250px;
+  padding-top: 10px;
+  font-family: nunito;
+}
+.bottom{
+  outline: 1px black;
+  color: black;
+  padding: 20px 30px;
+  text-align: center;
+  padding-top: 500px;
+}
+
+.tab1{
+  font-size: 25px;
+  float: left;
+  display: inline-block;
+  border-radius: 20px;
+  color: white;
+  background-color: green;
+  padding: 20px 30px 20px 30px;
+  margin-top: 40px;
+  margin-right: 100px;
+  font-family: nunito;
+}
+
+.tab2{
+  font-size: 25px;
+  float: left;
+  display: inline-block;
+  border-radius: 20px;
+  color: white;
+  background-color: green;
+  padding: 20px 30px 30px 30px;
+  margin-top: 40px;
+  margin-right: 100px;
+  font-family: nunito;
+}
+
+.tab3{
+  font-size: 25px;
+  float: left;
+  color: white;
+  display: inline-block;
+  border-radius: 20px;
+  background-color: green;
+  padding: 20px 20px 15px 15px;
+  margin-top: 40px;
+  margin-right: 100px;
+  font-family: nunito;
+}
+
